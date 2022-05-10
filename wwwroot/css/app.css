@@ -1,0 +1,96 @@
+﻿html {
+    overflow: auto;
+}
+
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 2px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem 0.7rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+#blazor-error-ui .dismiss {
+    cursor: pointer;
+    position: absolute;
+    right: 0.75rem;
+    top: 0.5rem;
+}
+
+.container.is-thin {
+    max-width: 500px !important;
+}
+
+.container.is-narrow {
+    max-width: 700px !important;
+}
+
+.container.is-normal {
+    max-width: 900px !important;
+}
+
+.fade-out {
+    transition: opacity 5s ease-in-out;
+    opacity:0;
+}
+
+.is-typewriter {
+    padding-bottom: 50vh;
+}
+
+.is-flex.is-flex-column {
+    flex-direction: column;
+}
+
+.is-flex-grow-1 {
+    flex-grow: 1;
+}
+
+.input-padding {
+    padding-bottom: calc(.5em - 1px);
+    padding-top: calc(.5em - 1px);
+}
+
+.grabbable:hover {
+    cursor: move; /* fallback if grab cursor is unsupported */
+    cursor: grab;
+    cursor: -moz-grab;
+    cursor: -webkit-grab;
+}
+
+    /* (Optional) Apply a "closed-hand" cursor during drag operation. */
+    .grabbable:active {
+        cursor: grabbing;
+        cursor: -moz-grabbing;
+        cursor: -webkit-grabbing;
+    }
+
+.p6-tablet { }
+
+@media screen and (min-width: 768px) {
+    .p6-tablet {
+        padding: 3rem !important;
+    }
+}
+
+.table.is-borderless td {
+    border-bottom: 0px;
+}
+
+/*
+    =======================
+    ===== Bulma extensions
+    =======================
+*/
+
+.has-background-light.is-bold {
+    background-image: linear-gradient(141deg,#dfd8d9 0,#f5f5f5 71%,#fff 100%);
+}
+
+table.is-vcentered tbody > tr > td {
+    vertical-align: middle !important;
+}
