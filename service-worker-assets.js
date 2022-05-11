@@ -45,7 +45,7 @@
       "url": "img\/testimonial.3.jpg"
     },
     {
-      "hash": "sha256-7PLM+fQPErSnkJFtK1bZ1gKvGASLdfFJOve6XqQYC+4=",
+      "hash": "sha256-BCDH6mAGC2mXAyN\/w8g4AolnKgsDb5C5n7j8tpLrTC8=",
       "url": "index.html"
     },
     {
@@ -253,5 +253,5 @@
       "url": "_content\/TG.Blazor.IndexedDB\/indexedDb.Blazor.js"
     }
   ],
-  "version": "KWIrisRP"
+  "version": "\/ue7LIO4"
 };
