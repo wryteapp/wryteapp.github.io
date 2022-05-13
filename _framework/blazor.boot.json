@@ -44,7 +44,7 @@
       "System.Text.Json.dll": "sha256-oRZaY1sOjUWhDaRcQEjNtTC7h8MpbGYDcBOh2FBqxNA=",
       "System.Threading.Tasks.Extensions.dll": "sha256-Zcs2zyI9B2ya4dZj6ipDVlux0T9knEh+qczTiS2QQLc=",
       "TG.Blazor.IndexedDB.dll": "sha256-2aHjXWQkkd2g7vhubNvRAbKP6KqknXz6jECaAxN1\/jg=",
-      "Wryte.dll": "sha256-VYplOCd\/rxs8YL8SCQDTCO4Dl2VcbajFTd+cu1UgSGQ="
+      "Wryte.dll": "sha256-q+NX47uXNj5vbh7gD4hA9z1q7j4yenMlP+4XV0vtoZU="
     },
     "extensions": null,
     "lazyAssembly": null,
