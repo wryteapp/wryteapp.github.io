@@ -89,7 +89,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-dpLEkGvjUEupeC3znrwpD2cO9R3x+mLH3c+4pRV5uXE=",
+      "hash": "sha256-VDZvpeS5z5WBf63hZS+L7InsexP6DGugVf1RnWG7akc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -253,5 +253,5 @@
       "url": "_content\/TG.Blazor.IndexedDB\/indexedDb.Blazor.js"
     }
   ],
-  "version": "qoXhSnwJ"
+  "version": "t2FIfvjP"
 };
