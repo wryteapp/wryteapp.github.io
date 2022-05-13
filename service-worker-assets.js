@@ -17,7 +17,7 @@
       "url": "css\/switch.css"
     },
     {
-      "hash": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "hash": "sha256-77OPgUxls8VsM2z8jDD3epHSuBrgu\/k63U0pP6baUug=",
       "url": "favicon.ico"
     },
     {
@@ -25,11 +25,11 @@
       "url": "files\/template.zip"
     },
     {
-      "hash": "sha256-DbpQaq68ZSb5IoPosBErM1QWBfsbTxpJqhU0REi6wP4=",
+      "hash": "sha256-9dsQ0bTCSSRnAG+OAjYICwUSiynHq3DC9\/glzRPTNfY=",
       "url": "icon-192.png"
     },
     {
-      "hash": "sha256-oEo6d+KqX5fjxTiZk\/w9NB3Mi0+ycS5yLwCKwr4IkbA=",
+      "hash": "sha256-DKH9L+4Avg\/guqI75uJSBRuakboT52h5Eu9xLNCeOmY=",
       "url": "icon-512.png"
     },
     {
@@ -253,5 +253,5 @@
       "url": "_content\/TG.Blazor.IndexedDB\/indexedDb.Blazor.js"
     }
   ],
-  "version": "t2FIfvjP"
+  "version": "hH\/Zzw2v"
 };
