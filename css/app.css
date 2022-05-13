@@ -81,6 +81,18 @@
     border-bottom: 0px;
 }
 
+.title.is-0 {
+    font-size: 5rem;
+}
+
+.message.fill {
+    height: 100%;
+} 
+
+.message.fill .message-body {
+    height: 100%;
+}
+
 /*
     =======================
     ===== Bulma extensions
