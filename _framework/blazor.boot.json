@@ -7,8 +7,8 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "Microsoft.AspNetCore.Components.dll": "sha256-ojhXac9uvciLZkDQS9vD6h4eAPbdcGK2uyNVbr7plIc=",
-      "Microsoft.AspNetCore.Components.Web.dll": "sha256-7\/wWSeOjtfIZdYzav0YOVqtNsOSB8NIijjuP1xern8w=",
+      "Microsoft.AspNetCore.Components.dll": "sha256-PjjP318gVWJ3Oj6oDekjuKdxGILYYkinqUR\/lL+QxMg=",
+      "Microsoft.AspNetCore.Components.Web.dll": "sha256-tB1DwoU4F3JImt+FMvODu8t+aPviysY5dCSTGZ691Ac=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-qLRev3iQ8+ob2712HwRtFUJchqBHMqm+gr9bbFz7t14=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-zhFtW4kE16TdrpPne9I1Cu9o0KYzrS50VE9MVSifJg4=",
       "Microsoft.Extensions.Configuration.dll": "sha256-QPR+1IXNcA28b\/gXw3uZ8aRigHIZUJ1KWSH02kkCg7Q=",
@@ -43,8 +43,8 @@
       "System.Text.Encodings.Web.dll": "sha256-YzMdXtB4qiVZw\/kTy0U8HXrPcvrzgfxm8px4fV0aEm4=",
       "System.Text.Json.dll": "sha256-oRZaY1sOjUWhDaRcQEjNtTC7h8MpbGYDcBOh2FBqxNA=",
       "System.Threading.Tasks.Extensions.dll": "sha256-Zcs2zyI9B2ya4dZj6ipDVlux0T9knEh+qczTiS2QQLc=",
-      "TG.Blazor.IndexedDB.dll": "sha256-2aHjXWQkkd2g7vhubNvRAbKP6KqknXz6jECaAxN1\/jg=",
-      "Wryte.dll": "sha256-otwyE436gEPOhVABbWePYvndRdr\/uu\/0B+fWemUTSaU="
+      "TG.Blazor.IndexedDB.dll": "sha256-IZ5IcXT7M8wJQPbVGrC64ZfuN\/pIpZBzqIRcCZYcbX4=",
+      "Wryte.dll": "sha256-slyrMYqrR3atHp5nGxbE+J9OuuIiJTwKH2mXXmPTM0M="
     },
     "extensions": null,
     "lazyAssembly": null,
